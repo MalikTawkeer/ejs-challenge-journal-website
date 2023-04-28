@@ -1,0 +1,13 @@
+Hello dear programmers,
+
+ HOW TO USE THIS PROJECT/ HOW TO IMPORT THIS PROJECT INTO UR LOCALHOST (PC) AND RUN THIS>
+ 1. Download the project.
+ 2. the project will not work even if u have full node js environment installed on ur pc. Because packages folder is not present in this project Because
+ the that package has large files there. Now what u can do to run this project on ur system follow step-3.
+ 3. Goto ur terminal where u r interacting with ur server and write the below command
+          npm install then hit enter
+     Ok what this command does if u look at the current project files you will find package.json file this is the file where these dependencies are aldrey written
+     you dont need to write them seperately in terminal for downloading the packages.
+     
+     
+     OK THANKS

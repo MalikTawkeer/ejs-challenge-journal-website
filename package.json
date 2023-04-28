@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "lodash": "^4.17.15"
+  },
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "description": "this program is created by malik tawkeer ul islam",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "malik"
+  ],
+  "author": "malik tawkeer ul isalm",
+  "license": "ISC"
+}
